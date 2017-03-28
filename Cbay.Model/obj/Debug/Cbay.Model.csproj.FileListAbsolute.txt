@@ -1,0 +1,4 @@
+C:\vasu\Cbay\Cbay.Model\bin\Debug\Cbay.Model.dll
+C:\vasu\Cbay\Cbay.Model\bin\Debug\Cbay.Model.pdb
+C:\vasu\Cbay\Cbay.Model\obj\Debug\Cbay.Model.dll
+C:\vasu\Cbay\Cbay.Model\obj\Debug\Cbay.Model.pdb
